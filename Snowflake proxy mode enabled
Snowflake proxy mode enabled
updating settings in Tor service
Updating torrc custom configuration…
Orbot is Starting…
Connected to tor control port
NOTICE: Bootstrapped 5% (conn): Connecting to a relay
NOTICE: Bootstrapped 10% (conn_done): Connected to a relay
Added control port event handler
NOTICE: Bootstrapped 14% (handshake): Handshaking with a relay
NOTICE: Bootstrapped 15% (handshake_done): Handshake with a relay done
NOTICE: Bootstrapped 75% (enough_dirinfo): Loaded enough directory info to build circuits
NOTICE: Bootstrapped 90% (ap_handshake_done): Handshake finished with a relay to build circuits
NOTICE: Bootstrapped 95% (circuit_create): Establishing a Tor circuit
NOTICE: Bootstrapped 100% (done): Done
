@@ -1,0 +1,16 @@
+
+Snowflake proxy mode enabled
+Snowflake proxy mode enabled
+updating settings in Tor service
+Updating torrc custom configuration…
+Orbot is Starting…
+Connected to tor control port
+NOTICE: Bootstrapped 5% (conn): Connecting to a relay
+NOTICE: Bootstrapped 10% (conn_done): Connected to a relay
+Added control port event handler
+NOTICE: Bootstrapped 14% (handshake): Handshaking with a relay
+NOTICE: Bootstrapped 15% (handshake_done): Handshake with a relay done
+NOTICE: Bootstrapped 75% (enough_dirinfo): Loaded enough directory info to build circuits
+NOTICE: Bootstrapped 90% (ap_handshake_done): Handshake finished with a relay to build circuits
+NOTICE: Bootstrapped 95% (circuit_create): Establishing a Tor circuit
+NOTICE: Bootstrapped 100% (done): Done
